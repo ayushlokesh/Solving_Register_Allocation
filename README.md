@@ -20,4 +20,7 @@ Replace comp206020/input.txt and comp206020/output.txt with the desired input an
 ## Additional Notes
 - Ensure that the input file contains the correct input for the compiler.
 - Verify that the output file contains the expected output after running the compiler.
-- If the input is in incorrect format or the graph is not colorable, you will see an empty output file generated with an appropriate message on the console.
+- If the input is in incorrect format or the graph is not colorable, you will see an empty 
+output file generated with an appropriate message on the console.
+- Note the above commands for compiling and running the code should be executed from inside the 26020-lab4-s-compilers_z86327ag this directory.
+ 
