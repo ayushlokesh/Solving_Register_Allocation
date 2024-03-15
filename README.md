@@ -1,14 +1,14 @@
 # Lab 4: Compiler Design
 
 ## Introduction
-This lab focuses on implementing a map-cloring algorithm for register allocation. The solution consists of two main components: `file_handler.java` and `registerAllocate.java` inside the `comp206020` folder. `file_handler.java` reads input from a file, processes it, and passes it to `registerAllocate.java`, which performs register allocation. This readme provides instructions on how to compile and run the code.
+This lab focuses on implementing a map-coloring algorithm for register allocation. The solution consists of two main components: `file_handler.java` and `registerAllocate.java` inside the `comp206020` folder. `file_handler.java` reads input from a file, processes it, and passes it to `registerAllocate.java`, which performs register allocation. This readme provides instructions on how to compile and run the code.
 
 ## Instructions
 To compile the code, run the following commands in the terminal:
 
-    ```bash
-    javac comp206020/file_handler.java comp206020/registerAllocate.java
-    ```
+```bash
+javac comp206020/file_handler.java comp206020/registerAllocate.java
+```
 
 To run the compiled code, use the following command:
 
